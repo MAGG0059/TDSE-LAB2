@@ -24,3 +24,13 @@ This repository contains one Jupyter Notebooks that demonstrate:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+### Deploy
+Trying to deploy there was an error where i wasn't able to connect to ana amazon point important for the deploy
+<img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/7a4ab7d1-6350-42f7-9112-6145dc141435" />
+<img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/27bc9d01-097b-4c9a-aa68-d8f8be4a1712" />
+
+
+In this image is the specific url that is not answering
+
+<img width="1911" height="916" alt="image" src="https://github.com/user-attachments/assets/8ddb61c5-6ca9-49ae-97a9-803553d40d94" />
